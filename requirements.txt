@@ -64,7 +64,7 @@ pycparser==2.21
 Pygments==2.11.2
 pyparsing==3.0.7
 PyQt5==5.12.3
-PyQt5_sip==4.19.18
+PyQt5_sip==12.9.0
 PyQtChart==5.12
 PyQtWebEngine==5.12.1
 pyrsistent==0.18.1
