@@ -69,7 +69,6 @@ PyQtChart==5.12
 PyQtWebEngine==5.12.1
 pyrsistent==0.18.1
 python-dateutil==2.8.2
-pywin32==303
 pywinpty==1.1.6
 pyzmq==22.3.0
 Send2Trash==1.8.0
